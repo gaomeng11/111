@@ -6,7 +6,7 @@
 \usepackage{lastpage}
 \usepackage{graphicx}
 \pagestyle{fancy}
-\lhead{\includegraphics[height=50pt]{BUPT_name_badge.png}}
+\lhead{\includegraphics[height=50pt]{zyb.png}}
 \chead{}
 \rhead{
 	\textit{Beijing University of Posts and Telecommunications,\\
