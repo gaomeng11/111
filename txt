@@ -1,0 +1,55 @@
+\documentclass[12pt]{article}
+
+\usepackage[top=1in, bottom=1in, left=1.25in, right=1.25in]{geometry}
+
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{graphicx}
+\pagestyle{fancy}
+\lhead{\includegraphics[height=50pt]{BUPT_name_badge.png}}
+\chead{}
+\rhead{
+	\textit{Beijing University of Posts and Telecommunications,\\
+	No. 10 Xitucheng Road, Haidian District,\\
+	Beijing, P.R. China, 100876}
+}
+\lfoot{}
+\cfoot{}
+\rfoot{}
+
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\setsansfont{Arial}
+\setmonofont{Consolas}
+
+%\usepackage{setspace}
+%\setstretch{1}
+
+\setlength{\headheight}{58pt}
+%\setlength{\headsep}{13pt}
+
+% no indention at the beginning of a paragraph
+% a new blank line between paragraphs
+\usepackage{parskip}
+%\setlength{\parindent}{0pt}
+%\setlength{\parskip}{xpt}
+
+%\usepackage[hidelinks]{hyperref}
+
+\begin{document}
+	Dear Admissions Committee,
+	
+	I am Yuri. Obey me.
+	
+	Sincerely,
+	
+	\bigskip	
+	Yuri, Ph.D.\\
+	Professor\\
+	School of Information and Communication Engineering\\
+	Beijing University of Posts and Telecommunications
+	
+	\bigskip
+	\today
+	
+\end{document}
